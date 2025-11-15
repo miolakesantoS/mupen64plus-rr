@@ -1,4 +1,4 @@
-# M64RPFW (WIP)
+# mupen64plus-rr (WIP)
 
 ![M64RPFW Logo](MiscAssets/rpfw.svg)  
 A new and improved TASing emulator powered by [Mupen64Plus](https://github.com/mupen64plus), with lots of extra bells 
