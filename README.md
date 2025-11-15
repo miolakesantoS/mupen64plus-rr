@@ -1,12 +1,13 @@
-# mupen64plus-rr (WIP)
+# Mupen64Plus-ReRecording
 
 ![M64RPFW Logo](MiscAssets/rpfw.svg)  
-A new and improved TASing emulator powered by [Mupen64Plus](https://github.com/mupen64plus), with lots of extra bells 
-and whistles.
+Famous Mupen64-RR-Lua: now with Plus.
+
+the only thing i dont know if they put a GUI...
 
 ## Related projects
 
-- [mupen64plus-core-rr](https://github.com/Mupen64-Rewrite/mupen64plus-core-rr) - our fork of mupen64plus-core with handy TASing features
+- [mupen64plus-core-rr](https://github.com/Mupen64/mupen64plus-core-rr) - our fork of mupen64plus-core with handy TASing features
 - [TinCan.NET](https://github.com/Mupen64-Rewrite/TinCan.NET) - an input plugin specifically designed for TASing
 
 ## Building from source
